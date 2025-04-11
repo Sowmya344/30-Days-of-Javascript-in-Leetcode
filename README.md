@@ -13,3 +13,14 @@ console.log("Hello World") : Prints to the console
 # Day-02:
 Closure: A closure is when a function "remembers" the variables from its outer scope, even after the outer function has finished executing.
 
+# Day-03: 
+1.Functions (Declaration, Return Values)
+2.Arrow Functions
+3.Objects (Creating and returning objects)
+4.Object Methods
+5.if-else Statements
+6.throw and Error Handling
+7.=== vs == (Strict vs Loose Equality)
+8.Callback Functions (optional, if chaining)
+9.Closures (for deeper understanding)
+
