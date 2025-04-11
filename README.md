@@ -9,3 +9,7 @@ return "Hello World": 	Returns the string to the caller
 
 console.log("Hello World") : Prints to the console	
 
+
+# Day-02:
+Closure: A closure is when a function "remembers" the variables from its outer scope, even after the outer function has finished executing.
+
